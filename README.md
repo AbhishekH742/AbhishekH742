@@ -12,8 +12,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbhishekH742&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###Leet Code Profile
-![](https://leetcard.jacoblin.cool/Abhi_Hallur_742?ext=heatmap)
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekH742&icon=2&color=11)](https://visitcount.itsvg.in)
 
